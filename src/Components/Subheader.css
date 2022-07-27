@@ -1,0 +1,63 @@
+.mmi{
+    height:700px;
+    width:900px;
+    background-color:	 #cce6ff;
+}
+.container{
+    height:1000px;
+    width:500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.Become{
+    font-size: 60px;
+    font-weight:bold;
+    color:gray;
+    position: relative;
+    top:100px;
+    left:100px;
+}
+.Become1{
+    font-size: 60px;
+    font-weight:bold;
+    color:#000099;
+    position: relative;
+    top:100px;
+    left:100px;
+
+}
+.bec{
+    font-size: 40px;
+    color:gray;
+    position: relative;
+    top:150px;
+    left:100px;   
+}
+.gp{
+    height:50px;
+    width:120px;
+    background-color:#99CCFF;
+    font-size: 30px;
+    font-weight: bold;
+    border-radius:5px;
+    color:#000099;
+    position: relative;
+    top:190px;
+    left:100px;
+}
+.bt{
+    width:200px;
+    height:50px;
+    font-size: 15px;
+font-weight: bold;
+    border-radius:5px;
+    background-color:#000099;
+    color:white;
+    position: relative;
+    top:230px;
+    left:100px;
+    border-radius:25px;
+
+}

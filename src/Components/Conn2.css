@@ -1,0 +1,23 @@
+html, body{
+    margin:0px;
+    padding:0px;;
+
+}.connection{
+    height:700px;
+    width:100%;
+    /* background-color:black; */
+   display: flex;
+    background-color: #e6f2ff;
+    
+}
+.cs1{
+  
+    align-items: center;
+    justify-content: center;
+}
+.cs2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
